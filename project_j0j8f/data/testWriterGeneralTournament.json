@@ -1,0 +1,25 @@
+{
+    "CompetitorLists": [
+        {"Competitors": [
+            {"name": "ann"},
+            {"name": "john"},
+            {"name": "jim"},
+            {"name": "foo"},
+            {"name": "bar"},
+            {"name": "greg"},
+            {"name": "gary"},
+            {"name": "jeff"}
+        ]},
+        {"Competitors": [
+            {"name": "jeff"},
+            {"name": "gary"},
+            {"name": "greg"},
+            {"name": "bar"},
+            {"name": "foo"},
+            {"name": "jim"},
+            {"name": "john"},
+            {"name": "ann"}
+        ]}
+    ],
+    "Tournament": "Tournament"
+}
